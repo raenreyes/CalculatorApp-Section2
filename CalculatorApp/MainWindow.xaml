@@ -23,7 +23,7 @@
             <RowDefinition Height="*"/>
             <RowDefinition Height="*"/>
         </Grid.RowDefinitions>
-        <Label Content="Checking"
+        <Label Content="0"
                HorizontalAlignment="Right"
                VerticalAlignment="Bottom"
                FontSize="60"
